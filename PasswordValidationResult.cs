@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+
 namespace HybridAuth.PasswordPolicy;
 
 public class PasswordValidationResult
