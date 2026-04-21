@@ -97,6 +97,10 @@ var result = validator.Validate("weak");
 
 Characters not in `AllowedSpecialChars` and not alphanumeric are rejected.
 
+## Disclaimer
+
+This package is provided **"as is"** without warranty of any kind. The author(s) are not responsible for any damages, data loss, security breaches, or issues arising from the use of this package. Use at your own risk.
+
 ## License
 
 MIT
